@@ -5,6 +5,8 @@ pyMaple is a simple 2D shooter game that was inspired by a popular MMORPG known 
 There are a few requirements needed to get this code running:
 - Python 2.7.3
 - Pygame 1.9.1
+
+
 With any other versions of Python and pygame, I cannot guarantee that it'll work as the code was not written for any other versions.
 
 # Controls for the game:
