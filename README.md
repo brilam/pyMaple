@@ -7,7 +7,7 @@ There are a few requirements needed to get this code running:
 - Pygame 1.9.1
 With any other versions of Python and pygame, I cannot guarantee that it'll work as the code was not written for any other versions.
 
-Controls for the game:
+# Controls for the game:
 Arrow keys for movement. Left CTRL to attack.
 
 # Side notes:
