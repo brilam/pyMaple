@@ -1,6 +1,8 @@
 # pyMaple
 pyMaple is a simple 2D shooter game that was inspired by a popular MMORPG known as MapleStory. The game utilizes sprites and sounds extracted from the game itself. pyMaple is written in Python (as you could imagine from the name). It was a project that I did in my grade 11 year (2011) and showed my first steps into programming.
 
+![alt tag](https://i.gyazo.com/9833b63f94aa2afb1fe143ef309bc2c4.png)
+
 # Dependencies
 There are a few requirements needed to get this code running:
 - Python 2.7.3
