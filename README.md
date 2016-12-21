@@ -11,9 +11,10 @@ Controls for the game:
 Arrow keys for movement. Left CTRL to attack.
 
 # Side notes:
-As with most games, there are always bugs. 
-1) Updating the monster movement when the player attacks a rapid pace (so to say, tapping attacks at a very fast pace). 
+As with most games, there are always bugs.
+
+
+1) Updating the monster movement when the player attacks a rapid pace (so to say, tapping attacks at a very fast pace).
+
+
 2) When you attack, you'll stay in your last attack frame rather than a standing frame. This isn't a huge problem, but it is a problem visually and it shouldn't do that.
-
-
-
